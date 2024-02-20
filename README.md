@@ -1,5 +1,7 @@
 # Portafolio de César
 
+![](https://s3.us-east-2.amazonaws.com/mgpanel/619-poo-mgpanel2.jpg)
+
 ### 1: Tus expectativas antes de aprender POO. Qué creías que ibas a aprender y para qué creías que iba a servir lo que ibas a ver sobre este tema
 Siendo sincero no tenía ni idea que esperar o sobre que se trataba esto de la programación orientada a objetos, hablamos sobre eso al inicio del
 curso, pero a grandes rasgos, pensé que aprenderíamos más herramientas del estilo de los arrays en tres dimensiones y que los programas terminarían
@@ -18,7 +20,7 @@ siendo de más de 100 líneas de código, tal vez para hacer programas más elab
 ### 4: Explica tus conclusiones en este momento sobre estas dos unidades: Qué has aprendido realmente, qué utilidad le ves y di lo más positivo que has adquirido en estas dos unidades y lo que menos te ha gustado.
 He aprendido a dividir el trabajo de forma que sea más "fácil" de abordar el programa, a crear clase que nos ayuden a que cada vez que hagamos un programa con objetos de esa clase podamos implementar sus métodos de manera más sencilla y a crear interfaces con las que se hacen métodos que luego estarán en todas sus subclases.
 
-¿Que utilidad le veo?
+**¿Que utilidad le veo?**
 
 Le veo mucha utilidad ya que solo necesitaremos crear los métodos de una clase una vez, luego de esto podemos usarlo para todos los que programas que usen ese objeto de manera más fácil
 
