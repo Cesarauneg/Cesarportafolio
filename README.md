@@ -11,5 +11,19 @@ siendo de más de 100 líneas de código, tal vez para hacer programas más elab
 3. Aprendí el origen de muchas clases que usamos de forma cotidiana y pensar sobre su funcionamiento interno
 4. La programación orientada a objetos me ha ayudado a pensar de manera más lógica, cosa que considero fundamental en un programador y que antes no se me daba del todo bien
 
-### 3:
-### 4:
+### 3: Elige dos ejercicios de las prácticas que te hayan sido, para ti, los más importantes. Indica por qué y explica cómo lo has resuelto u lo que has aprendido con ellos
+* Vehículo: con el ejercicio de vehículo aprendí como funciona la relación entre superclase y subclase, las diferentes formas de declarar un nuevo objeto así como también la herencia de propiedades y cuando un método es redefinido o no
+* Ordenador: este ejercicio me gustó porque ayuda a entender mejor cuando es una relación de agregación o de composición
+
+### 4: Explica tus conclusiones en este momento sobre estas dos unidades: Qué has aprendido realmente, qué utilidad le ves y di lo más positivo que has adquirido en estas dos unidades y lo que menos te ha gustado.
+He aprendido a dividir el trabajo de forma que sea más "fácil" de abordar el programa, a crear clase que nos ayuden a que cada vez que hagamos un programa con objetos de esa clase podamos implementar sus métodos de manera más sencilla y a crear interfaces con las que se hacen métodos que luego estarán en todas sus subclases.
+
+¿Que utilidad le veo?
+
+Le veo mucha utilidad ya que solo necesitaremos crear los métodos de una clase una vez, luego de esto podemos usarlo para todos los que programas que usen ese objeto de manera más fácil
+
+| Lo Positivo                                                       |            Lo Negativo             |
+|:------------------------------------------------------------------|:----------------------------------:|
+| Ayuda a pensar de manera más lógica                               |    Toma mucho tiempo entenderlo    |
+| Se puede ir probando poco a poco el funcionamiento de cada método | No hemos practicado lo suficientes |
+| Da más posibilidades a la hora de crear una App                   | El proceso de los POO es más lento |
