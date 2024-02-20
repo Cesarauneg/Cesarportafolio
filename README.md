@@ -10,3 +10,6 @@ siendo de más de 100 líneas de código, tal vez para hacer programas más elab
 2. He aprendido a ser más organizado con mis programas, esto quieras que no facilita la lectura y en consecuencia el trabajo
 3. Aprendí el origen de muchas clases que usamos de forma cotidiana y pensar sobre su funcionamiento interno
 4. La programación orientada a objetos me ha ayudado a pensar de manera más lógica, cosa que considero fundamental en un programador y que antes no se me daba del todo bien
+
+### 3:
+### 4:
